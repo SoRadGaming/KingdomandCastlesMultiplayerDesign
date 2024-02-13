@@ -1,0 +1,7 @@
+{
+  "uniqueid": "MultiplayerDebugMenu",
+  "name": "Multiplayer Debug Menu",
+  "description": "A debug menu for multiplayer servers. And Data syncing",
+  "author": "SoRadGaming",
+  "version": "1.0.0"
+}
